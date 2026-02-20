@@ -1,0 +1,6 @@
+Total N (all echoes): 24827
+Filtered N (ESA in [LEAD, ICE]): 11792
+Accuracy (ESA vs GMM): 0.656377
+Confusion matrix (rows=true [ICE,LEAD], cols=pred [ICE,LEAD]):
+[[7740  735]
+ [3317    0]]
