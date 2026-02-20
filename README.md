@@ -1,4 +1,3 @@
-# week-4-echo-classification
 # Week 4 – Echo Classification (Lead vs Sea Ice)
 
 This repository contains the Week 4 assignment for echo classification using **unsupervised learning (GMM)**.
