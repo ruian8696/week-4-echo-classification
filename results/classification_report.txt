@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+         ICE       0.70      0.91      0.79      8475
+        LEAD       0.00      0.00      0.00      3317
+
+    accuracy                           0.66     11792
+   macro avg       0.35      0.46      0.40     11792
+weighted avg       0.50      0.66      0.57     11792
